@@ -56,7 +56,7 @@ int main() {
     //caso o usario digite qualquer numero alem de 1 a 2 o programa fecha
     
     if (entrada != 1 && entrada != 2) {
-        printf("Opcao invalida!\n");
+        printf("Opcao invalida\n");
         return 1;
     }
    // pergunta como os resistores estão associados no circuito
